@@ -1,4 +1,4 @@
-"""Readable, sparse NPA hierarchy for finite-party projective Bell experiments.
+"""NPA hierarchy for finite-party projective Bell experiments.
 
 Example (also works if this file is pasted into a notebook cell):
     npa = NPA(parties=2, inputs=2, outcomes=2, level="1+AB")
